@@ -1,0 +1,15 @@
+D:\Apps\VS\MyProjectForUnium1\bin\Debug\net6.0\MyProjectForUnium1.exe
+D:\Apps\VS\MyProjectForUnium1\bin\Debug\net6.0\MyProjectForUnium1.deps.json
+D:\Apps\VS\MyProjectForUnium1\bin\Debug\net6.0\MyProjectForUnium1.runtimeconfig.json
+D:\Apps\VS\MyProjectForUnium1\bin\Debug\net6.0\MyProjectForUnium1.dll
+D:\Apps\VS\MyProjectForUnium1\bin\Debug\net6.0\MyProjectForUnium1.pdb
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.csproj.AssemblyReference.cache
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.AssemblyInfoInputs.cache
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.AssemblyInfo.cs
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.csproj.CoreCompileInputs.cache
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.dll
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\refint\MyProjectForUnium1.dll
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.pdb
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\MyProjectForUnium1.genruntimeconfig.cache
+D:\Apps\VS\MyProjectForUnium1\obj\Debug\net6.0\ref\MyProjectForUnium1.dll
